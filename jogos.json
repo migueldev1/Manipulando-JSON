@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "Among Us",
+    "imagem": "img/among-us.jpg"
+  },
+  {
+    "nome": "Dead By Daylight",
+    "imagem": "img/dead-by-daylight.jpg"
+  },
+  {
+    "nome": "Fortnite",
+    "imagem": "img/fortnite.jpg"
+  },
+  {
+    "nome": "Minecraft",
+    "imagem": "img/minecraft.webp"
+  },
+  {
+    "nome": "League Of Legends",
+    "imagem": "img/lol.jfif"
+  },
+  {
+    "nome": "Valorant",
+    "imagem": "img/valorant.jfif"
+  },
+  {
+    "nome": "Call of Duty: Warzone",
+    "imagem": "img/call-of-duty-warzone.jfif"
+  },
+  {
+    "nome": "Rocket League",
+    "imagem": "img/rocket-league.jpg"
+  },
+  {
+    "nome": "Overcoocked 2",
+    "imagem": "img/overcocked-2.jfif"
+  }
+]
